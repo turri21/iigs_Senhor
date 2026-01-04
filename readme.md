@@ -1,6 +1,8 @@
+-=(iigs_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
 
-
+___
 generate the rom files:
 ```
 cd roms
